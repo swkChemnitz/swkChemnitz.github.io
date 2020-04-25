@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Meetups on Softwerkskammer Chemnitz</title>
-    <link>https://swkChemnitz.github.io/meetups/</link>
-    <description>Recent content in Meetups on Softwerkskammer Chemnitz</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language>
-    <lastBuildDate>Tue, 17 Mar 2020 19:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://swkChemnitz.github.io/meetups/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Mob Programming - Ein Erfahrungsbericht</title>
-      <link>https://swkChemnitz.github.io/meetups/2020-03-17-mob-programming/</link>
-      <pubDate>Tue, 17 Mar 2020 19:00:00 +0200</pubDate>
-      
-      <guid>https://swkChemnitz.github.io/meetups/2020-03-17-mob-programming/</guid>
-      <description>Zuerst klingt die Idee merkwürdig: Pair Programming zu dritt oder zu viert? Kann ja nur eine Verschwendung von Zeit und Geld sein! Oder kommen wir dadurch tatsächlich schneller zum gewünschten Ergebnis und verteilen Wissen auch noch gleichmäßig über alle Teammitglieder?
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Meetups on Softwerkskammer Chemnitz</title><link>https://swkChemnitz.github.io/meetups/</link><description>Recent content in Meetups on Softwerkskammer Chemnitz</description><generator>Hugo -- gohugo.io</generator><language>de-DE</language><lastBuildDate>Tue, 17 Mar 2020 19:00:00 +0200</lastBuildDate><atom:link href="https://swkChemnitz.github.io/meetups/index.xml" rel="self" type="application/rss+xml"/><item><title>Mob Programming - Ein Erfahrungsbericht</title><link>https://swkChemnitz.github.io/meetups/2020-03-17-mob-programming/</link><pubDate>Tue, 17 Mar 2020 19:00:00 +0200</pubDate><guid>https://swkChemnitz.github.io/meetups/2020-03-17-mob-programming/</guid><description>Zuerst klingt die Idee merkwürdig: Pair Programming zu dritt oder zu viert? Kann ja nur eine Verschwendung von Zeit und Geld sein! Oder kommen wir dadurch tatsächlich schneller zum gewünschten Ergebnis und verteilen Wissen auch noch gleichmäßig über alle Teammitglieder?
 Diese Session berichtet von einem Selbstversuch im Mob Programming mit überraschenden Erkenntnissen, erklärt Flow-Zentrierung und Remote Mob Programming und lädt natürlich zu Diskussion und Meinungsaustausch ein.
-Slides  Recording   </description>
-    </item>
-    
-  </channel>
-</rss>
+Slides Recording</description></item></channel></rss>
