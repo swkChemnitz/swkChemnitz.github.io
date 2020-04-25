@@ -3,26 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://swkChemnitz.github.io/posts/2020-03-17-mob-programming/</loc>
+    <loc>https://swkChemnitz.github.io/meetups/</loc>
     <lastmod>2020-03-17T19:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://swkChemnitz.github.io/posts/</loc>
+    <loc>https://swkChemnitz.github.io/meetups/2020-03-17-mob-programming/</loc>
     <lastmod>2020-03-17T19:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://swkChemnitz.github.io/</loc>
     <lastmod>2020-03-17T19:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://swkChemnitz.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://swkChemnitz.github.io/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://swkChemnitz.github.io/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
